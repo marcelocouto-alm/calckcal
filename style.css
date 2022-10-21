@@ -120,7 +120,9 @@ content {
     width: 300px;
 }}
 
-@media only screen and (max-width : 767px) {
+/* ////......Media query......//// */
+
+@media only screen and (max-width : 480px) {
     
     .form-group input,
     .form-group select {
