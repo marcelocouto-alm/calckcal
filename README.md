@@ -1,4 +1,4 @@
-# CALCKCAL 🏋️
+# CALCKCAL 🏋🧮
 
 ## Sobre o projeto
 https://calckcal.web.app
